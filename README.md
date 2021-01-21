@@ -33,10 +33,14 @@ Trois documents de standardisation soumis à commentaires sont publiés
  - 	PEC-FORM-CTL-RFC-Editors : à destination des fournisseurs de technologies de ‘l’information, afin de définir les contraintes techniques pour utiliser ces technos dans le cadre de la formation et l’entrainement sur des simulateurs.
  - 	PEC-FORM-CTL-RFC-Interoperability : à destination des fournisseurs de plateforme de range de simulation / virtualisation, pour s’assurer que les contenus sont compatibles entre les plateformes. 
 Ces documents sont disponibles sur https://github.com/orgs/Paillasse-Numerique
-Membres du groupe
- - 	LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
-Membres du FORUM ayant contribué
-(pour le futur pour mettre quelques membres externes en exergue)
-
+# Membres du groupe
+ - 	Orange Cyberdefense
+ - 	
+ - 	
+ - 	
+ - 	
+ LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
+# Membres au FORUM ayant contribué
+ - 	Lien sur un forum
 Coordinateur Projet, Eric DUPUIS, Directeur sécurité Orange Cyberdefense, Orange Campus Cyber
 
