@@ -1,11 +1,8 @@
-# white-paper
-CyberTrainingsLabs (CTL)
+# white-paper du CyberTrainingsLabs (CTL)
 
-La paillasse numérique
+La paillasse numérique - Un espace pour pratiquer la cyber en contexte opérationnel
 
-Un espace pour pratiquer la cyber en contexte opérationnel
-
-# Quoi
+## Quoi
 Depuis sa naissance, la Cybersécurité requiert de maitriser les entrailles des technologies de l’information. Une bonne formation académique est nécessaire pour maitriser les concepts mais il faut également mettre « les mains dans le cambouis ». La formation en cybersécurité nécessite de pratiquer, de s’entrainer, d’apprendre avec des travaux pratiques sur ces technologies. 
  - Le premier enjeu est de construire, valider et apporter aux apprenants un environnement technique dédié à l’illustration ou aux travaux pratiques. Faire passer d’un état à un autre pour avancer dans la pédagogie, assurer une remise à niveau pour un nouvel étudiant est un défi que tous les enseignants techniques vivent au quotidien.
  - Le deuxième est non des moindres, est de pouvoir rapidement constituer des travaux pratiques « riches et attractifs », sur des briques technologiques « sur étagère » ou contenus existants pour se concentrer sur la pédagogie sans se soucier de l’infrastructure informatique sous-jacente.
@@ -13,7 +10,7 @@ Depuis sa naissance, la Cybersécurité requiert de maitriser les entrailles des
 
 C’est donc sur ces enjeux que le [Pole d'Excellence Cyber](https://www.pole-excellence-cyber.org) a crée La paillasse numérique ou en anglais CyberTrainingsLabs (CTL) et souhaite réunir un ensemble d’acteurs technologiques (de la simulation, virtualisation, du CyberRange), des écoles et des académiques, des acteurs privés de la formation et acteurs institutionnels pour « proposer » des solutions à ces enjeux de la formation Cyber.
 
-# Constats
+## Constats
 De nombreuses technologies de simulation et de virtualisation permettent de monter des plateformes techniques pour réaliser des travaux pratiques et dirigées sur des technologies du marché (système d’exploitation, applications, systèmes réseaux, device virtualisé …). 
 
 Le groupe a cependant identifié 3 freins à lever :
@@ -21,7 +18,7 @@ Le groupe a cependant identifié 3 freins à lever :
 2. 	L’interopérabilité des contenus entre les plateformes techniques : les contenus étant à forte valeur ajoutée, la stabilisation des formats et le transfert des contenus entre plateformes est indispensable pour permettre la capitalisation, le developpement par des tiers, les partages et la perrenité de ces contenus.
 3. 	La protection des créateurs de contenus : La création et le partage de contenus pedagogiques doivent être accompagnés d'une protection juridique simple et au juste besoin. Celle-ci peut concerner des problématiques financières ou d'image. Des licences open source ou commerciales peuvent répondre à ces différents compromis de liberté d'emploi pour l'utilisateur et le besoin de protection du créateur.
 
-# Comment
+## Comment
 L'objectif du groupe est de faire émerger des solutions répondant au besoin de formation, recherche et entrainement en cyberdéfense et cybersécurité. Ces solutions doivent comprendre des plateformes techniques, des contenus, des services et une communauté d'utilisateurs (apprenants, clients, partenaires…).
 
 Le groupe a choisi de fonctionner suivant plusieurs cercles concentriques :
@@ -35,7 +32,7 @@ Le groupe a choisi de travailler sur 2 axes :
  - AXE Maquettage : avec nos adhérents fournisseurs de technologiques et de solution permettant de tester des implémentations de ces RFC.
 
 Pour participer, vous pouvez soit rejoindre le groupe de travail PEC Cybertraininglabs en devenant adhérent au PEC, soit rejoindre le FORUM ouvert à tous, via le GITHUB. Pour cela contacter l’équipe CTL via [contact.cybertraininglabs@pole-excellence-cyber.org](mailto:contact.cybertraininglabs@pole-excellence-cyber.org) ou sur le [GITHUB de la Paillasse Numérique](https://github.com/orgs/Paillasse-Numerique)
-# Nos productions 
+## Nos productions 
 Trois documents de standardisation soumis à commentaires sont deja disponibles aux membres du FORUM :
 1. 	PEC-FORM-CTL-RFC-Editors : Ce document a pour objectif de décrire les caractéristiques attendues des licences logicielles dans les environnements de formation, de recherche, d’expérimentation et d’entrainement. Il recense le besoin des utilisateurs de la paillasse numérique sur les produits logiciels à destination des fournisseurs de technologies de l’information, afin de définir les contraintes techniques pour utiliser ces produits dans le cadre de la formation et l’entrainement sur des simulateurs. Les utilisateurs peuvent utiliser la RFC comme cadre technique pour négocier leur licences logicielles.
 
@@ -44,7 +41,7 @@ Trois documents de standardisation soumis à commentaires sont deja disponibles 
 3. 	PEC-FORM-CTL-RFC-Creators : Ce document a pour objectif de décrire le besoin de protection des créateurs de contenus et les solutions qu’ils peuvent mettre en place. Il permet également de sensibiliser l’utilisateur sur les conditions d’emplois des contenus. Il est donc principalement à destination des créateurs de contenus pédagogiques pour les systèmes de range et de formation Online, pour protéger leur droits d’auteurs, et faciliter la diffusion des scénarios pédagogiques construits pour des travaux pratiques cyber sur des simulateurs.
 
 Ces documents sont disponibles sur [github.com/orgs/Paillasse-Numerique](https://github.com/orgs/Paillasse-Numerique) aux membres du FORUM en attendant leur publication.
-# Membres du groupe
+## Membres du groupe
  - 	Orange Cyberdefense
  - 	Direction Générale de l'Armement
 
@@ -54,7 +51,7 @@ Face à un univers numérique en pleine expansion, la montée en puissance de la
  - 	
  - 	
  LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
-# Membres au FORUM ayant contribué
+## Membres au FORUM ayant contribué
  - 	Lien sur un forum
 Coordinateur Projet, Eric DUPUIS, Directeur sécurité Orange Cyberdefense, Orange Campus Cyber
 
