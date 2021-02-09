@@ -30,11 +30,11 @@ Le groupe a choisi de fonctionner suivant plusieurs cercles concentriques :
  - 	Un cercle d’acteurs de la formation intéressés par l’existence de solutions standardisées, accessibles, opérable à distance.
 
 Le groupe a choisi de travailler sur 2 axes : 
-1. AXE Normalisation : Les 3 freins font l'objet de RFC (Request For Comments) pour dégager une vision la plus consensuelle sur ces sujets. Ces documents sont élaborés collaborativement via [GITHUB](https://github.com/orgs/Paillasse-Numerique) par les membres du groupe et sont publiés aux membres du FORUM afin de recueillir leus commentaires. Ces documents seront in fine rendus publics.
+ - AXE Normalisation : Les 3 freins font l'objet de RFC (Request For Comments) pour dégager une vision la plus consensuelle sur ces sujets. Ces documents sont élaborés collaborativement via [GITHUB](https://github.com/orgs/Paillasse-Numerique) par les membres du groupe et sont publiés aux membres du FORUM afin de recueillir leus commentaires. Ces documents seront in fine rendus publics.
 
-2. AXE Maquettage : avec nos adhérents fournisseurs de technologiques et de solution permettant de tester des implémentations de ces RFC.
+ - AXE Maquettage : avec nos adhérents fournisseurs de technologiques et de solution permettant de tester des implémentations de ces RFC.
 
-Pour participer, vous pouvez soit rejoindre le groupe de travail PEC Cybertraininglabs en devenant adhérent au PEC, soit rejoindre le FORUM ouvert à tous, via le GITHUB. Pour cela contacter l’équipe CTL via [mailto:contact.cybertraininglabs@pole-excellence-cyber.org](contact.cybertraininglabs@pole-excellence-cyber.org) ou sur le [GITHUB de la Paillasse Numérique](https://github.com/orgs/Paillasse-Numerique)
+Pour participer, vous pouvez soit rejoindre le groupe de travail PEC Cybertraininglabs en devenant adhérent au PEC, soit rejoindre le FORUM ouvert à tous, via le GITHUB. Pour cela contacter l’équipe CTL via [contact.cybertraininglabs@pole-excellence-cyber.org](mailto:contact.cybertraininglabs@pole-excellence-cyber.org) ou sur le [GITHUB de la Paillasse Numérique](https://github.com/orgs/Paillasse-Numerique)
 # Nos productions 
 Trois documents de standardisation soumis à commentaires sont deja disponibles aux membres du FORUM :
 1. 	PEC-FORM-CTL-RFC-Editors : Ce document a pour objectif de décrire les caractéristiques attendues des licences logicielles dans les environnements de formation, de recherche, d’expérimentation et d’entrainement. Il recense le besoin des utilisateurs de la paillasse numérique sur les produits logiciels à destination des fournisseurs de technologies de l’information, afin de définir les contraintes techniques pour utiliser ces produits dans le cadre de la formation et l’entrainement sur des simulateurs. Les utilisateurs peuvent utiliser la RFC comme cadre technique pour négocier leur licences logicielles.
@@ -43,13 +43,14 @@ Trois documents de standardisation soumis à commentaires sont deja disponibles 
 
 3. 	PEC-FORM-CTL-RFC-Creators : Ce document a pour objectif de décrire le besoin de protection des créateurs de contenus et les solutions qu’ils peuvent mettre en place. Il permet également de sensibiliser l’utilisateur sur les conditions d’emplois des contenus. Il est donc principalement à destination des créateurs de contenus pédagogiques pour les systèmes de range et de formation Online, pour protéger leur droits d’auteurs, et faciliter la diffusion des scénarios pédagogiques construits pour des travaux pratiques cyber sur des simulateurs.
 
-Ces documents sont disponibles sur https://github.com/orgs/Paillasse-Numerique aux membres du FORUM en attendant leur publication.
+Ces documents sont disponibles sur [github.com/orgs/Paillasse-Numerique](https://github.com/orgs/Paillasse-Numerique) aux membres du FORUM en attendant leur publication.
 # Membres du groupe
  - 	Orange Cyberdefense
  - 	Direction Générale de l'Armement
+
 Face à un univers numérique en pleine expansion, la montée en puissance de la cyberdéfense est fortemement contrainte par les ressources humaines. Pour accroitre le vivier de personnels efficaces et matures en cybersécurité, la disponibilité de solutions répondant au besoin de formation, recherche et entrainement en cyberdefense est essentielle. Dans ce contexte, le groupe de travail paillasse numérique du Pole d'Excellence Cyber est un outil absolument nécessaire pour coordoner les efforts. La DGA, dans sa mission de préparation de l'avenir, et via son centre d'expertise DGA Maitrise de l'information, soutient et contribue aux objectifs du GT paillasse numérique.
 [www.defense.gouv.fr/dga](https://www.defense.gouv.fr/dga)
- - 	
+ - 	Airbus
  - 	
  - 	
  LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
