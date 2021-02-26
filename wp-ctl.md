@@ -51,7 +51,7 @@ Face à un univers numérique en pleine expansion, la montée en puissance de la
  - 	
  - 	
  LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
-## Membres au FORUM ayant contribué
+## Membres du FORUM ayant contribué
  - 	Lien sur un forum
 Coordinateur Projet, Eric DUPUIS, Directeur sécurité Orange Cyberdefense, Orange Campus Cyber
 
