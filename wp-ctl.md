@@ -1,6 +1,6 @@
-# white-paper du CyberTrainingsLabs (CTL)
+# white-paper des CyberTrainingsLabs (CTL)
 
-La paillasse numérique - Un espace pour pratiquer la cyber en contexte opérationnel
+La paillasse numérique - Un projet pour initier un espace pour se former en cybersécurité dans des contextes opérationnels réalistes
 
 ## Quoi
 Depuis sa naissance, la Cybersécurité requiert de maitriser les entrailles des technologies de l’information. Une bonne formation académique est nécessaire pour maitriser les concepts mais il faut également mettre « les mains dans le cambouis ». La formation en cybersécurité nécessite de pratiquer, de s’entrainer, d’apprendre avec des travaux pratiques sur ces technologies. 
@@ -41,17 +41,23 @@ Trois documents de standardisation soumis à commentaires sont déjà disponible
 3. 	PEC-FORM-CTL-RFC-Creators : Ce document a pour objectif de décrire le besoin de protection des créateurs de contenus et les solutions qu’ils peuvent mettre en place. Il permet également de sensibiliser l’utilisateur sur les conditions d’emplois des contenus. Il est donc principalement à destination des créateurs de contenus pédagogiques pour les systèmes de range et de formation Online, pour protéger leur droits d’auteurs, et faciliter la diffusion des scénarios pédagogiques construits pour des travaux pratiques cyber sur des simulateurs.
 
 Ces documents sont disponibles sur [github.com/orgs/Paillasse-Numerique](https://github.com/orgs/Paillasse-Numerique) aux membres du FORUM en attendant leur publication.
-## Membres du groupe
- - 	Orange Cyberdefense
- - 	Direction Générale de l'Armement
 
-Face à un univers numérique en pleine expansion, la montée en puissance de la cyberdéfense est fortement contrainte par les ressources humaines. Pour accroitre le vivier de personnels efficaces et matures en cybersécurité, la disponibilité de solutions répondant au besoin de formation, recherche et entrainement en cyberdefense est essentielle. Dans ce contexte, le groupe de travail paillasse numérique du Pole d'Excellence Cyber est un outil absolument nécessaire pour coordonner les efforts. La DGA, dans sa mission de préparation de l'avenir, et via son centre d'expertise DGA Maitrise de l'information, soutient et contribue aux objectifs du GT paillasse numérique.
-[www.defense.gouv.fr/dga](https://www.defense.gouv.fr/dga)
+## Membres du groupe
+ - 	Orange Cyberdefense (Coordinateur Projet, Eric DUPUIS, Directeur sécurité Orange Cyberdefense, Orange Campus Cyber)
+ - 	Direction Générale de l'Armement (Guillaume Pesquet DGA/MI)
  - 	Airbus
- - 	
- - 	
- LOGO, nom, poste, rôle dans le groupe : texte sur l’entreprise et lien vers site WEB
+ - 	Diateam
+ - 	YesWeHack
+ - 	Rennes 1
+ - 	ISEN
+ - 	EPITA
+ 
 ## Membres du FORUM ayant contribué
- - 	Lien sur un forum
-Coordinateur Projet, Eric DUPUIS, Directeur sécurité Orange Cyberdefense, Orange Campus Cyber
+ - 	les membres sont indiqués sur le forum GIT du projet.
+
+# Les pitch des contributeurs : 
+
+## Délégation générale pour l'Armement
+Face à un univers numérique en pleine expansion, la montée en puissance de la cyberdéfense est fortement contrainte par les ressources humaines. Pour accroitre le vivier de personnels efficaces et matures en cybersécurité, la disponibilité de solutions répondant au besoin de formation, recherche et entrainement en cyberdefense est essentielle. Dans ce contexte, le groupe de travail paillasse numérique du Pole d'Excellence Cyber est un outil absolument nécessaire pour coordonner les efforts. La DGA, dans sa mission de préparation de l'avenir, et via son centre d'expertise DGA Maitrise de l'information, soutient et contribue aux objectifs du GT paillasse numérique. [www.defense.gouv.fr/dga](https://www.defense.gouv.fr/dga)
+
 
