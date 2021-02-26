@@ -55,7 +55,7 @@ Ces documents sont disponibles sur [github.com/orgs/Paillasse-Numerique](https:/
 ## Membres du FORUM ayant contribué
  - 	les membres sont indiqués sur le forum GIT du projet.
 
-# Les pitch des contributeurs : 
+# Les pitchs des contributeurs : 
 
 ## Délégation générale pour l'Armement
 Face à un univers numérique en pleine expansion, la montée en puissance de la cyberdéfense est fortement contrainte par les ressources humaines. Pour accroitre le vivier de personnels efficaces et matures en cybersécurité, la disponibilité de solutions répondant au besoin de formation, recherche et entrainement en cyberdefense est essentielle. Dans ce contexte, le groupe de travail paillasse numérique du Pole d'Excellence Cyber est un outil absolument nécessaire pour coordonner les efforts. La DGA, dans sa mission de préparation de l'avenir, et via son centre d'expertise DGA Maitrise de l'information, soutient et contribue aux objectifs du GT paillasse numérique. [www.defense.gouv.fr/dga](https://www.defense.gouv.fr/dga)
