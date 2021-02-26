@@ -57,7 +57,10 @@ Ces documents sont disponibles sur [github.com/orgs/Paillasse-Numerique](https:/
 
 # Les pitchs des contributeurs : 
 
-## Délégation générale pour l'Armement
+## Orange Cyberdefense (OCD)
+Au coeur des enjeux de la cybersécurité des entreprises et des collectivités, Orange Cyberdefense est un opérateur de services de cybersécurité pour qui l'excellence du métier passe par la pratique des technologies de sécurité, et la connaissance intimes des technologies de l'information. Disposer de paillasses numériques pour s'exercer, s'entrainer, se former aux solutions et ceci "sans scrupules" et en en toute sécurité est un enjeu majeur pour la formation de tout nos collaborateurs. 
+## Délégation générale pour l'Armement (DGA)
 Face à un univers numérique en pleine expansion, la montée en puissance de la cyberdéfense est fortement contrainte par les ressources humaines. Pour accroitre le vivier de personnels efficaces et matures en cybersécurité, la disponibilité de solutions répondant au besoin de formation, recherche et entrainement en cyberdefense est essentielle. Dans ce contexte, le groupe de travail paillasse numérique du Pole d'Excellence Cyber est un outil absolument nécessaire pour coordonner les efforts. La DGA, dans sa mission de préparation de l'avenir, et via son centre d'expertise DGA Maitrise de l'information, soutient et contribue aux objectifs du GT paillasse numérique. [www.defense.gouv.fr/dga](https://www.defense.gouv.fr/dga)
-
+## Conservatoire National des Arts et Métiers (CNAM)
+Le CNAM est un acteur de référence dans la formation à distance, à la fois structructure universitaire et école d'ingénieur, les auditeurs du CNAM viennent se former sur des plateformes éducatives modernes.  Les outils permettant aux auditeurs et aux enseignants de disposer sur l'ensemble du territoire de fonctions pour réaliser des TP/TD à distance, sur les technologies de pointes avec les meilleurs scénarios pédagogiques est un enjeu majeur pour l'enseignement de la Cybersécurité.
 
